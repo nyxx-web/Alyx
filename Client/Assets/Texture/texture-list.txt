@@ -1,1 +1,291 @@
+### Blocks
 
+#### Plains Biome Surface Blocks
+- **Grass Block**: A block of soil with grass on top.
+- **Dirt**: Basic earth block, often found under grass.
+- **Coarse Dirt**: Dirt mixed with gravel; cannot support grass.
+- **Podzol**: A dark brown dirt block that supports certain plants.
+- **Gravel**: Loose particles that fall when unsupported.
+- **Sand**: A lightweight block found near water bodies.
+- **Water**: A liquid block essential for farming and life.
+- **Clay**: A block that can be mined and crafted into bricks.
+- **Farmland**: Tilled soil used for growing crops.
+
+#### Trees and Plants
+- **Oak Log**: The trunk of the oak tree; can be crafted into planks.
+- **Oak Leaves**: Foliage of the oak tree, can drop apples.
+- **Oak Sapling**: Young oak tree that can be planted to grow new trees.
+- **Birch Log**: The trunk of the birch tree; light-colored wood.
+- **Birch Leaves**: Foliage of the birch tree, provides saplings.
+- **Birch Sapling**: Young birch tree; can be planted to grow.
+- **Grass**: Basic plant that grows on dirt and grass blocks.
+- **Tall Grass**: A variant of grass; can be found naturally.
+- **Fern**: A small plant found in the Plains biome.
+- **Large Fern**: A larger version of the fern.
+- **Dandelion**: A common yellow flower.
+- **Poppy**: A red flower often found in fields.
+- **Blue Orchid**: A blue flower, often found near water.
+- **Allium**: A tall purple flower.
+- **Azure Bluet**: A small blue flower.
+- **Red Tulip**: A red flowering plant.
+- **Orange Tulip**: A vibrant orange flower.
+- **White Tulip**: A white flowering plant.
+- **Pink Tulip**: A delicate pink flower.
+- **Oxeye Daisy**: A flower with white petals and a yellow center.
+- **Cornflower**: A blue flower, often found in plains.
+- **Lily of the Valley**: A bell-shaped white flower.
+- **Sunflower**: A tall flower that faces the sun.
+- **Lilac**: A double-tall flower with purple blooms.
+- **Rose Bush**: A double-tall plant with red roses.
+- **Peony**: A double-tall flower with pink blooms.
+
+#### Building Blocks
+- **Cobblestone**: A rough stone block, often used in crafting.
+- **Stone**: Basic rock block, can be mined with a pickaxe.
+- **Stone Bricks**: Crafted from stone; used for building.
+- **Mossy Cobblestone**: Cobblestone covered in moss; can be found in dungeons.
+- **Mossy Stone Bricks**: Stone bricks with moss.
+- **Chiseled Stone Bricks**: Decorative stone bricks.
+- **Cracked Stone Bricks**: Weathered stone bricks.
+- **Smooth Stone**: A polished version of stone.
+- **Bricks**: Fired clay blocks used in building.
+- **Sandstone**: A block made from sand.
+  - **Smooth Sandstone**: Polished sandstone.
+  - **Chiseled Sandstone**: Decorative sandstone.
+- **Red Sandstone**: A variant of sandstone with a reddish hue.
+  - **Smooth Red Sandstone**: Polished red sandstone.
+  - **Chiseled Red Sandstone**: Decorative red sandstone.
+- **Concrete**: A solid building block available in various colors.
+  - **(Colors)**: White, Orange, Magenta, Light Blue, Yellow, Lime, Pink, Gray, Light Gray, Cyan, Purple, Blue, Brown, Green, Red, Black.
+- **Terracotta**: A colored clay block, can be dyed.
+  - **(Colors)**: White, Orange, Magenta, Light Blue, Yellow, Lime, Pink, Gray, Light Gray, Cyan, Purple, Blue, Brown, Green, Red, Black.
+- **Glazed Terracotta**: Decorative terracotta block with unique patterns.
+  - **(Colors)**: Same as Terracotta.
+- **Concrete Powder**: A gravity-affected block that turns to concrete when wet.
+  - **(Colors)**: Same as Concrete.
+
+### Underground Blocks and Ores
+
+#### Basic Underground Blocks
+- **Stone**: Basic rock block found underground.
+- **Cobblestone**: Mined stone block; forms when stone is broken.
+- **Dirt**: Can be found underground in certain layers.
+- **Gravel**: Commonly found in caves; falls when unsupported.
+- **Bedrock**: The bottom layer of the world; indestructible.
+- **Andesite**: A type of stone, found in veins underground.
+- **Granite**: A light-colored stone, also found in veins.
+- **Diorite**: A speckled stone, found alongside andesite and granite.
+
+#### Ores
+- **Coal Ore**: Can be mined for coal; used for crafting torches and fuel.
+- **Iron Ore**: Mined to obtain iron; essential for crafting tools and armor.
+- **Redstone Ore**: Mined for redstone dust, used in crafting and redstone circuitry.
+- **Gold Ore**: Mined for gold; used for crafting and trading.
+- **Lapis Lazuli Ore**: Mined for lapis lazuli; used for enchanting.
+- **Diamond Ore**: Mined to obtain diamonds; used for crafting the best tools and armor.
+- **Emerald Ore**: Rare ore found in mountain biomes; used for trading.
+
+### Ocean Biome Blocks
+- **Sand**: Commonly found at the bottom of the ocean.
+- **Gravel**: Often found along ocean floors.
+- **Clay**: Found underwater; can be used to make bricks.
+- **Kelp**: A plant that grows underwater; can be harvested for food.
+- **Seagrass**: Basic underwater plant that grows on the ocean floor.
+- **Prismarine**: A block obtained from ocean monuments; can be crafted.
+- **Prismarine Bricks**: Crafted from prismarine; used in building.
+- **Dark Prismarine**: A darker variant of prismarine.
+- **Sea Lantern**: A light-emitting block found in ocean monuments.
+- **Sponge**: Absorbs water when placed; can be found in ocean ruins.
+- **Wet Sponge**: A sponge that has absorbed water.
+
+### Utility Blocks
+- **Crafting Table**: Used to craft items and blocks.
+- **Furnace**: Used to smelt ores and cook food.
+- **Chest**: A storage block for items.
+- **Trapped Chest**: A chest that emits redstone signals.
+- **Ender Chest**: A special chest that links inventory across locations.
+- **Anvil**: Used to repair items and rename them.
+- **Chipped Anvil**: A damaged version of the anvil.
+- **Damaged Anvil**: Further damaged anvil.
+- **Enchanting Table**: Used to enchant items with special abilities.
+- **Beacon**: Emits a beam of light and provides buffs in a certain area.
+- **Brewing Stand**: Used to brew potions.
+- **Cauldron**: Used to hold water, brew potions, or dye items.
+- **Hopper**: Transfers items between containers.
+- **Dropper**: Dispenses items when activated.
+- **Dispenser**: Similar to dropper, but also interacts with items.
+- **Stonecutter**: Used to craft stone-related blocks.
+- **Grindstone**: Used for repairing and disenchanting items.
+- **Blast Furnace**: Smelts ores faster than a regular furnace.
+- **Smoker**: Cooks food items faster than a regular furnace.
+- **Cartography Table**: Used to create and modify maps.
+- **Fletching Table**: Used for crafting arrows.
+- **Smithing Table**: Used to upgrade tools and armor.
+- **Loom**: Used for crafting banners.
+- **Barrel**: A storage block that can be opened from the top.
+- **Composter**: Converts organic materials into bone meal.
+- **Bell**: Can be rung to attract villagers.
+- **Lantern**: A light source that hangs from blocks.
+- **Lectern**: Holds books and allows reading.
+- **Note Block**: Plays a sound when activated.
+- **Jukebox**: Plays music discs.
+
+### Redstone Components
+- **Redstone Dust**: A material used in crafting and redstone circuits.
+- **Redstone Torch**: Provides power to adjacent blocks.
+- **Redstone Repeater**: Extends and delays redstone signals.
+- **Redstone Comparator**: Compares redstone signals.
+- **Redstone Lamp**: Emits light when powered.
+- **Lever**: A switch that can turn devices on or off.
+- **Stone Button**: A button that activates redstone when pressed.
+- **Wooden Button**: A button that can be activated by players.
+- **Stone Pressure Plate**: Activates when an entity steps on it.
+- **Wooden Pressure Plate**: Similar to stone, but can be activated by players.
+- **Light Weighted Pressure Plate**: Activates with a small number of items.
+- **Heavy Weighted Pressure Plate**: Activates with a large number of items.
+- **Tripwire Hook**: Used to create tripwire circuits.
+- **Tripwire**: Activates when an entity passes through.
+- **Piston**: Pushes blocks when activated.
+- **Sticky Piston**: Pushes and pulls blocks.
+- **Observer**: Detects changes in adjacent blocks.
+- **Daylight Detector**: Produces redstone signals based on light levels.
+- **Hopper**: Transfers items between containers.
+- **Dropper**: Dispenses items when activated.
+- **Dispenser**: Similar to dropper, but also interacts with items.
+
+### Tools and Utilities
+- **Wooden Pickaxe**: Basic tool for mining.
+- **Stone Pickaxe**: Better than wooden; can mine stone.
+- **Iron Pickaxe**: Can mine higher-tier ores.
+- **Gold Pickaxe**: Faster mining but low durability.
+- **Diamond Pickaxe**: Best tool for mining; high durability.
+- **Wooden Axe**: Used for chopping wood.
+- **Stone Axe**: Better than wooden; can chop wood faster.
+- **Iron Axe**: Can chop wood and higher-tier items.
+- **Gold Axe**: Fastest chopping but low durability.
+- **Diamond Axe**: Best tool for chopping; high durability.
+- **Wooden Shovel**: Basic tool for digging.
+- **Stone Shovel**: Better than wooden; can dig faster.
+- **Iron Shovel**: Can dig higher-tier materials.
+- **Gold Shovel**: Fastest digging but low durability.
+- **Diamond Shovel**: Best tool for digging; high durability.
+- **Wooden Hoe**: Used for tilling soil.
+- **Stone Hoe**: Better than wooden; can till soil faster.
+- **Iron Hoe**: Can till soil and plant seeds.
+- **Gold Hoe**: Fastest tilling but low durability.
+- **Diamond Hoe**: Best tool for tilling; high durability.
+- **Shears**: Used to harvest leaves and wool.
+- **Flint and Steel**: Used to light fires.
+- **Fishing Rod**: Used for catching fish.
+- **Clock**: Indicates the time of day.
+- **Compass**: Points to the world spawn.
+- **Lead**: Used to tie mobs to a fence.
+- **Name Tag**: Used to name mobs.
+
+### Food Items
+- **Apple**: Dropped from oak trees; restores hunger.
+- **Golden Apple**: Crafted with gold ingots; gives special effects.
+- **Enchanted Golden Apple**: Rarely found; provides powerful buffs.
+- **Bread**: Crafted from wheat; restores hunger.
+- **Cookie**: Crafted from wheat and cocoa beans; restores hunger.
+- **Cake**: Crafted with wheat, sugar, milk, and eggs; can be eaten in slices.
+- **Melon Slice**: Dropped from melon blocks; restores hunger.
+- **Glistering Melon Slice**: Crafted from a melon slice and gold nuggets; used for potions.
+- **Carrot**: Can be harvested from farms; restores hunger.
+- **Golden Carrot**: Crafted from a carrot and gold nuggets; used for potions.
+- **Potato**: Can be harvested from farms; restores hunger.
+- **Baked Potato**: Cooked potato; restores more hunger.
+- **Poisonous Potato**: Rare drop from potatoes; can poison the player.
+- **Beetroot**: Can be harvested from farms; restores hunger.
+- **Beetroot Soup**: Crafted from beetroots; restores hunger.
+- **Pumpkin Pie**: Crafted from pumpkins, sugar, and eggs; restores hunger.
+- **Sweet Berries**: Found in the Taiga biome; restores hunger.
+- **Honey Bottle**: Obtained from beehives; restores hunger.
+- **Cooked Chicken**: Cooked from raw chicken; restores hunger.
+- **Raw Chicken**: Dropped by chickens; can cause hunger if eaten raw.
+- **Cooked Porkchop**: Cooked from raw porkchop; restores hunger.
+- **Raw Porkchop**: Dropped by pigs; can cause hunger if eaten raw.
+- **Cooked Beef (Steak)**: Cooked from raw beef; restores hunger.
+- **Raw Beef**: Dropped by cows; can cause hunger if eaten raw.
+- **Cooked Mutton**: Cooked from raw mutton; restores hunger.
+- **Raw Mutton**: Dropped by sheep; can cause hunger if eaten raw.
+- **Cooked Rabbit**: Cooked from raw rabbit; restores hunger.
+- **Raw Rabbit**: Dropped by rabbits; can cause hunger if eaten raw.
+- **Rabbit Stew**: Crafted from rabbit, carrots, and mushrooms; restores hunger.
+- **Cooked Cod**: Cooked from raw cod; restores hunger.
+- **Raw Cod**: Dropped by cod fish; can cause hunger if eaten raw.
+- **Cooked Salmon**: Cooked from raw salmon; restores hunger.
+- **Raw Salmon**: Dropped by salmon fish; can cause hunger if eaten raw.
+- **Clownfish (Tropical Fish)**: Found in oceans; restores minimal hunger.
+- **Pufferfish**: Found in oceans; can poison if eaten raw.
+- **Dried Kelp**: Harvested from kelp; restores hunger.
+- **Mushroom Stew**: Crafted from mushrooms; restores hunger.
+- **Suspicious Stew**: Crafted from mushrooms; gives random effects.
+
+### Miscellaneous Items
+- **Stick**: Crafted from wood; used for tools and crafting.
+- **String**: Dropped by spiders; used for crafting and bows.
+- **Feather**: Dropped by birds; used for arrows.
+- **Flint**: Obtained from gravel; used for tools.
+- **Leather**: Obtained from cows and horses; used for crafting armor.
+- **Rabbit Hide**: Dropped by rabbits; used for crafting.
+- **Rabbit Foot**: Rare drop from rabbits; used in potions.
+- **Clay Ball**: Obtained from clay blocks; used for bricks.
+- **Brick**: Crafted from clay balls; used in building.
+- **Paper**: Crafted from sugar cane; used for books and maps.
+- **Book**: Crafted from paper and leather; used for enchanting.
+- **Writable Book**: A book that can be written in.
+- **Written Book**: A completed book that contains text.
+- **Slimeball**: Dropped by slimes; used for crafting.
+- **Bone**: Dropped by skeletons; can be turned into bone meal.
+- **Bone Meal**: Used to grow plants faster.
+- **Ender Pearl**: Dropped by Endermen; used for teleportation.
+- **Blaze Powder**: Crafted from blaze rods; used for potions.
+- **Blaze Rod**: Dropped by blazes; used for brewing.
+- **Ghast Tear**: Dropped by ghasts; used for potions.
+- **Gold Nugget**: Crafted from gold ingots; used for crafting.
+- **Iron Nugget**: Crafted from iron ingots; used for crafting.
+- **Nether Quartz**: Mined from nether quartz ore; used for redstone.
+- **Prismarine Shard**: Obtained from guardians; used for crafting.
+- **Prismarine Crystals**: Obtained from elder guardians; used for crafting.
+- **Heart of the Sea**: Found in buried treasure; used to craft conduits.
+- **Nautilus Shell**: Dropped by drowned; used to craft conduits.
+- **Scute**: Dropped by turtles; used for crafting.
+- **Phantom Membrane**: Dropped by phantoms; used for potions.
+- **Ink Sac**: Obtained from squids; used for dye.
+- **Glowstone Dust**: Obtained from glowstone; used for potions and crafting.
+- **Sugar**: Crafted from sugar cane; used for food and brewing.
+- **Gunpowder**: Dropped by creepers; used for explosives.
+- **Wheat**: Grown from seeds; used for baking.
+- **Cocoa Beans**: Found in jungles; used for crafting cookies.
+- **Nether Wart**: Used for potion brewing.
+- **Redstone**: Used in crafting and redstone circuitry.
+- **Lapis Lazuli**: Used for enchanting and dyeing.
+- **Emerald**: Rare gem used for trading.
+- **Diamond**: Precious stone used for crafting the best gear.
+- **Gold Ingot**: Smelted from gold ore; used for crafting.
+- **Iron Ingot**: Smelted from iron ore; used for crafting.
+- **Coal**: Used as fuel and for crafting torches.
+- **Charcoal**: Smelted from wood; used as fuel.
+
+### Armor
+- **Leather Helmet**: Basic headgear made from leather.
+- **Leather Chestplate**: Basic chest protection made from leather.
+- **Leather Leggings**: Basic leg protection made from leather.
+- **Leather Boots**: Basic foot protection made from leather.
+- **Chainmail Helmet**: Medium protection; cannot be crafted, only found.
+- **Chainmail Chestplate**: Medium protection; cannot be crafted, only found.
+- **Chainmail Leggings**: Medium protection; cannot be crafted, only found.
+- **Chainmail Boots**: Medium protection; cannot be crafted, only found.
+- **Iron Helmet**: Good head protection made from iron.
+- **Iron Chestplate**: Good chest protection made from iron.
+- **Iron Leggings**: Good leg protection made from iron.
+- **Iron Boots**: Good foot protection made from iron.
+- **Gold Helmet**: Good head protection, faster than iron but less durability.
+- **Gold Chestplate**: Good chest protection; faster than iron.
+- **Gold Leggings**: Good leg protection; faster than iron.
+- **Gold Boots**: Good foot protection; faster than iron.
+- **Diamond Helmet**: Best head protection; very durable.
+- **Diamond Chestplate**: Best chest protection; very durable.
+- **Diamond Leggings**: Best leg protection; very durable.
+- **Diamond Boots**: Best foot protection; very durable.
