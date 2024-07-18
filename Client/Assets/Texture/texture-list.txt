@@ -3,13 +3,12 @@
 #### Plains Biome Surface Blocks
 - **Grass Block**: A block of soil with grass on top.
 - **Dirt**: Basic earth block, often found under grass.
-- **Coarse Dirt**: Dirt mixed with gravel; cannot support grass.
-- **Podzol**: A dark brown dirt block that supports certain plants.
+
+
 - **Gravel**: Loose particles that fall when unsupported.
 - **Sand**: A lightweight block found near water bodies.
 - **Water**: A liquid block essential for farming and life.
 - **Clay**: A block that can be mined and crafted into bricks.
-- **Farmland**: Tilled soil used for growing crops.
 
 #### Trees and Plants
 - **Oak Log**: The trunk of the oak tree; can be crafted into planks.
